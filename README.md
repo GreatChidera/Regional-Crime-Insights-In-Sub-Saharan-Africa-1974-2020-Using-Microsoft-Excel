@@ -7,6 +7,10 @@
 - [Key Insights](#Key-Insights)
 ### Project Overview
 This dashboard provides a comprehensive visual analysis of regional crime and violence in Sub-Saharan Africa from 1974 to 2020. It highlights key metrics such as total fatalities, injuries, countries affected, and the most dangerous forms of violence. Users can filter data by country, year, and perpetrator group to explore trends. The dashboard uncovers insights on the most targeted victims, deadliest perpetrator groups, most attacked cities, and yearly fatality trends—offering valuable context for understanding regional security dynamics and informing policy decisions.
+![crime dashboard](https://github.com/user-attachments/assets/b675971c-4b94-4760-89ba-7b9bf1e02428)
+
+
+
 ### Objectives
 - To analyze patterns of violence and crime across Sub-Saharan Africa over a 39-year period.  
 - To identify the deadliest forms of violence and most impacted countries, cities, and victim groups.  
